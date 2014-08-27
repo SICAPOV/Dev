@@ -16,8 +16,8 @@
 </node>
 </node>
 <node CREATED="1409095586752" ID="ID_3832404" MODIFIED="1409095627464" TEXT="Create a local web server on MFNYVM">
-<node CREATED="1409095635841" ID="ID_651920467" MODIFIED="1409095686522" TEXT="Install VirtualBox">
-<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1409095635841" ID="ID_651920467" MODIFIED="1409178717180" TEXT="Install VirtualBox">
+<icon BUILTIN="button_ok"/>
 </node>
 <node CREATED="1409095645310" ID="ID_1346342314" MODIFIED="1409095687998" TEXT="Install CS50 Appliance">
 <icon BUILTIN="messagebox_warning"/>
@@ -26,17 +26,20 @@
 <icon BUILTIN="messagebox_warning"/>
 </node>
 </node>
-<node CREATED="1409100437882" ID="ID_690387566" MODIFIED="1409100443208" TEXT="Setup code sharing">
+<node CREATED="1409100437882" FOLDED="true" ID="ID_690387566" MODIFIED="1409178762328" TEXT="Setup code sharing">
+<icon BUILTIN="button_ok"/>
 <node CREATED="1409097779760" ID="ID_629028082" MODIFIED="1409100417830" TEXT="Create a repository in GIT">
 <icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1409097795741" ID="ID_908307433" MODIFIED="1409100455796" TEXT="Install git client on CMNY">
-<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1409097795741" ID="ID_908307433" MODIFIED="1409178731976" TEXT="Install git client on CMNY">
+<icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1409097795741" ID="ID_1142669510" MODIFIED="1409100455797" TEXT="Install git client on MFNY">
-<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1409097795741" ID="ID_1142669510" MODIFIED="1409178736510" TEXT="Install git client on MFNY">
+<icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1409100422892" ID="ID_351823281" MODIFIED="1409100432833" TEXT="Move curren code to GIT"/>
+<node CREATED="1409100422892" ID="ID_351823281" MODIFIED="1409178757447" TEXT="Move curren code to GIT">
+<icon BUILTIN="button_ok"/>
+</node>
 </node>
 </node>
 </node>
